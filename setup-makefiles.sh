@@ -29,7 +29,7 @@ function vendor_imports() {
     cat <<EOF >>"$1"
 		"device/fairphone/FP4",
 		"hardware/qcom-caf/sm8250",
-		"hardware/qcom-caf/wlan",
+		"hardware/qcom/wlan",
 		"vendor/qcom/opensource/commonsys/display",
 		"vendor/qcom/opensource/commonsys-intf/display",
 		"vendor/qcom/opensource/dataservices",
