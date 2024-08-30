@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_FP4.mk
+    $(LOCAL_DIR)/blaze_FP4.mk
